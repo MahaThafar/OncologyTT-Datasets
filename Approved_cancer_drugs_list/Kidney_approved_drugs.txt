@@ -1,0 +1,41 @@
+Afinitor (Everolimus)
+Afinitor Disperz (Everolimus)
+Aldesleukin
+Avastin (Bevacizumab)
+Avelumab
+Axitinib
+Bavencio (Avelumab)
+Bevacizumab
+Cabometyx (Cabozantinib-S-Malate)
+Cabozantinib-S-Malate
+Everolimus
+Fotivda (Tivozanib Hydrochloride)
+IL-2 (Aldesleukin)
+Inlyta (Axitinib)
+Interleukin-2 (Aldesleukin)
+Ipilimumab
+Keytruda (Pembrolizumab)
+Lenvatinib Mesylate
+Lenvima (Lenvatinib Mesylate)
+Mvasi (Bevacizumab)
+Nexavar (Sorafenib Tosylate)
+Nivolumab
+Opdivo (Nivolumab)
+Pazopanib Hydrochloride
+Pembrolizumab
+Proleukin (Aldesleukin)
+Sorafenib Tosylate
+Sunitinib Malate
+Sutent (Sunitinib Malate)
+Temsirolimus
+Tivozanib Hydrochloride
+Torisel (Temsirolimus)
+Votrient (Pazopanib Hydrochloride)
+Yervoy (Ipilimumab)
+Zirabev (Bevacizumab)
+Jelmyto (Mitomycin)
+Mitomycin
+Cosmegen (Dactinomycin)
+Dactinomycin
+Doxorubicin Hydrochloride
+Vincristine Sulfate

@@ -1,0 +1,46 @@
+Abecma (Idecabtagene Vicleucel)
+Alkeran for Injection (Melphalan Hydrochloride)
+Alkeran Tablets (Melphalan)
+Aredia (Pamidronate Disodium)
+Belantamab Mafodotin-blmf
+BiCNU (Carmustine)
+Blenrep (Belantamab Mafodotin-blmf)
+Bortezomib
+Carfilzomib
+Carmustine
+Cyclophosphamide
+Daratumumab
+Daratumumab and Hyaluronidase-fihj
+Darzalex (Daratumumab)
+Darzalex Faspro (Daratumumab and Hyaluronidase-fihj)
+Doxil (Doxorubicin Hydrochloride Liposome)
+Doxorubicin Hydrochloride Liposome
+Elotuzumab
+Empliciti (Elotuzumab)
+Evomela (Melphalan Hydrochloride)
+Farydak (Panobinostat Lactate)
+Idecabtagene Vicleucel
+Isatuximab-irfc
+Ixazomib Citrate
+Kyprolis (Carfilzomib)
+Lenalidomide
+Melphalan
+Melphalan Flufenamide Hydrochloride
+Melphalan Hydrochloride
+Mozobil (Plerixafor)
+Ninlaro (Ixazomib Citrate)
+Pamidronate Disodium
+Panobinostat Lactate
+Peptaxto (Melphalan Flufenamide Hydrochloride)
+Plerixafor
+Pomalidomide
+Pomalyst (Pomalidomide)
+Revlimid (Lenalidomide)
+Sarclisa (Isatuximab-irfc)
+Selinexor
+Thalidomide
+Thalomid (Thalidomide)
+Velcade (Bortezomib)
+Xpovio (Selinexor)
+Zoledronic Acid
+Zometa (Zoledronic Acid)

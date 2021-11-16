@@ -1,0 +1,31 @@
+Avastin (Bevacizumab)
+Bevacizumab
+Camptosar (Irinotecan Hydrochloride)
+Capecitabine
+Cetuximab
+Cyramza (Ramucirumab)
+Eloxatin (Oxaliplatin)
+Erbitux (Cetuximab)
+5-FU (Fluorouracil Injection)
+Fluorouracil Injection
+Ipilimumab
+Irinotecan Hydrochloride
+Keytruda (Pembrolizumab)
+Leucovorin Calcium
+Lonsurf (Trifluridine and Tipiracil Hydrochloride)
+Mvasi (Bevacizumab)
+Nivolumab
+Opdivo (Nivolumab)
+Oxaliplatin
+Panitumumab
+Pembrolizumab
+Ramucirumab
+Regorafenib
+Stivarga (Regorafenib)
+Trifluridine and Tipiracil Hydrochloride
+Vectibix (Panitumumab)
+Xeloda (Capecitabine)
+Yervoy (Ipilimumab)
+Zaltrap (Ziv-Aflibercept)
+Zirabev (Bevacizumab)
+Ziv-Aflibercept

@@ -1,0 +1,22 @@
+Atezolizumab
+Avelumab
+Balversa (Erdafitinib)
+Bavencio (Avelumab)
+Cisplatin
+Doxorubicin Hydrochloride
+Enfortumab Vedotin-ejfv
+Erdafitinib
+Jelmyto (Mitomycin)
+Keytruda (Pembrolizumab)
+Mitomycin
+Nivolumab
+Opdivo (Nivolumab)
+Padcev (Enfortumab Vedotin-ejfv)
+Pembrolizumab
+Sacituzumab Govitecan-hziy
+Tecentriq (Atezolizumab)
+Tepadina (Thiotepa)
+Thiotepa
+Trodelvy (Sacituzumab Govitecan-hziy)
+Valrubicin
+Valstar (Valrubicin)

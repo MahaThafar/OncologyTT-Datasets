@@ -1,0 +1,83 @@
+Abemaciclib
+Abraxane (Paclitaxel Albumin-stabilized Nanoparticle Formulation)
+Ado-Trastuzumab Emtansine
+Afinitor (Everolimus)
+Afinitor Disperz (Everolimus)
+Alpelisib
+Anastrozole
+Aredia (Pamidronate Disodium)
+Arimidex (Anastrozole)
+Aromasin (Exemestane)
+Atezolizumab
+Capecitabine
+Cyclophosphamide
+Docetaxel
+Doxorubicin Hydrochloride
+Ellence (Epirubicin Hydrochloride)
+Enhertu (Fam-Trastuzumab Deruxtecan-nxki)
+Epirubicin Hydrochloride
+Eribulin Mesylate
+Everolimus
+Exemestane
+5-FU (Fluorouracil Injection)
+Fam-Trastuzumab Deruxtecan-nxki
+Fareston (Toremifene)
+Faslodex (Fulvestrant)
+Femara (Letrozole)
+Fluorouracil Injection
+Fulvestrant
+Gemcitabine Hydrochloride
+Gemzar (Gemcitabine Hydrochloride)
+Goserelin Acetate
+Halaven (Eribulin Mesylate)
+Herceptin Hylecta (Trastuzumab and Hyaluronidase-oysk)
+Herceptin (Trastuzumab)
+Ibrance (Palbociclib)
+Infugem (Gemcitabine Hydrochloride)
+Ixabepilone
+Ixempra (Ixabepilone)
+Kadcyla (Ado-Trastuzumab Emtansine)
+Keytruda (Pembrolizumab)
+Kisqali (Ribociclib)
+Lapatinib Ditosylate
+Letrozole
+Lynparza (Olaparib)
+Margenza (Margetuximab-cmkb)
+Margetuximab-cmkb
+Megestrol Acetate
+Methotrexate Sodium
+Neratinib Maleate
+Nerlynx (Neratinib Maleate)
+Olaparib
+Paclitaxel
+Paclitaxel Albumin-stabilized Nanoparticle Formulation
+Palbociclib
+Pamidronate Disodium
+Pembrolizumab
+Perjeta (Pertuzumab)
+Pertuzumab
+Pertuzumab, Trastuzumab, and Hyaluronidase-zzxf
+Phesgo (Pertuzumab, Trastuzumab, and Hyaluronidase-zzxf)
+Piqray (Alpelisib)
+Ribociclib
+Sacituzumab Govitecan-hziy
+Soltamox (Tamoxifen Citrate)
+Talazoparib Tosylate
+Talzenna (Talazoparib Tosylate)
+Tamoxifen Citrate
+Taxotere (Docetaxel)
+Tecentriq (Atezolizumab)
+Tepadina (Thiotepa)
+Thiotepa
+Toremifene
+Trastuzumab
+Trastuzumab and Hyaluronidase-oysk
+Trexall (Methotrexate Sodium)
+Trodelvy (Sacituzumab Govitecan-hziy)
+Tucatinib
+Tukysa (Tucatinib)
+Tykerb (Lapatinib Ditosylate)
+Verzenio (Abemaciclib)
+Vinblastine Sulfate
+Xeloda (Capecitabine)
+Zoladex (Goserelin Acetate)

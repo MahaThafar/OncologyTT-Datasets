@@ -1,0 +1,18 @@
+Abraxane (Paclitaxel Albumin-stabilized Nanoparticle Formulation)
+Afinitor (Everolimus)
+Erlotinib Hydrochloride
+Everolimus
+5-FU (Fluorouracil Injection)
+Fluorouracil Injection
+Gemcitabine Hydrochloride
+Gemzar (Gemcitabine Hydrochloride)
+Infugem (Gemcitabine Hydrochloride)
+Irinotecan Hydrochloride Liposome
+Lynparza (Olaparib)
+Mitomycin
+Olaparib
+Onivyde (Irinotecan Hydrochloride Liposome)
+Paclitaxel Albumin-stabilized Nanoparticle Formulation
+Sunitinib Malate
+Sutent (Sunitinib Malate)
+Tarceva (Erlotinib Hydrochloride)

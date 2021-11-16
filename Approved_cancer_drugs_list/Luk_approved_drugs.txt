@@ -1,0 +1,132 @@
+Arranon (Nelarabine)
+Asparaginase Erwinia chrysanthemi
+Asparlas (Calaspargase Pegol-mknl)
+Besponsa (Inotuzumab Ozogamicin) 
+Blinatumomab
+Blincyto (Blinatumomab)
+Calaspargase Pegol-mknl
+Cerubidine (Daunorubicin Hydrochloride)
+Clofarabine
+Clolar (Clofarabine)
+Cyclophosphamide
+Cytarabine
+Dasatinib
+Daunorubicin Hydrochloride
+Dexamethasone
+Doxorubicin Hydrochloride
+Erwinaze (Asparaginase Erwinia Chrysanthemi)
+Gleevec (Imatinib Mesylate)
+Iclusig (Ponatinib Hydrochloride)
+Inotuzumab Ozogamicin
+Imatinib Mesylate
+Kymriah (Tisagenlecleucel)
+Marqibo (Vincristine Sulfate Liposome)
+Mercaptopurine
+Methotrexate Sodium
+Nelarabine
+Oncaspar (Pegaspargase)
+Pegaspargase
+Ponatinib Hydrochloride
+Prednisone
+Purinethol (Mercaptopurine)
+Purixan (Mercaptopurine)
+Rubidomycin (Daunorubicin Hydrochloride)
+Sprycel (Dasatinib)
+Tisagenlecleucel
+Trexall (Methotrexate Sodium)
+Vincristine Sulfate
+Vincristine Sulfate Liposome
+Arsenic Trioxide
+Azacitidine
+Cerubidine (Daunorubicin Hydrochloride)
+Cyclophosphamide
+Cytarabine
+Daunorubicin Hydrochloride
+Daunorubicin Hydrochloride and Cytarabine Liposome
+Daurismo (Glasdegib Maleate)
+Dexamethasone
+Doxorubicin Hydrochloride
+Enasidenib Mesylate
+Gemtuzumab Ozogamicin
+Gilteritinib Fumarate
+Glasdegib Maleate
+Idamycin PFS (Idarubicin Hydrochloride)
+Idarubicin Hydrochloride
+Idhifa (Enasidenib Mesylate)
+Ivosidenib
+Midostaurin
+Mitoxantrone Hydrochloride
+Mylotarg (Gemtuzumab Ozogamicin)
+Onureg (Azacitidine)
+Prednisone
+Rubidomycin (Daunorubicin Hydrochloride)
+Rydapt (Midostaurin)
+Tabloid (Thioguanine)
+Thioguanine
+Tibsovo (Ivosidenib)
+Trisenox (Arsenic Trioxide)
+Venclexta (Venetoclax)
+Venetoclax
+Vincristine Sulfate
+Vyxeos (Daunorubicin Hydrochloride and Cytarabine Liposome)
+Xospata (Gilteritinib Fumarate)
+Elzonris (Tagraxofusp-erzs)
+Tagraxofusp-erzs
+Acalabrutinib
+Alemtuzumab
+Arzerra (Ofatumumab)
+Bendamustine Hydrochloride
+Bendeka (Bendamustine Hydrochloride)
+Calquence (Acalabrutinib)
+Campath (Alemtuzumab)
+Chlorambucil
+Copiktra (Duvelisib)
+Cyclophosphamide
+Dexamethasone
+Duvelisib
+Fludarabine Phosphate
+Gazyva (Obinutuzumab)
+Ibrutinib
+Idelalisib
+Imbruvica (Ibrutinib)
+Leukeran (Chlorambucil)
+Obinutuzumab
+Ofatumumab
+Prednisone
+Rituxan (Rituximab)
+Rituxan Hycela (Rituximab and Hyaluronidase Human)
+Rituximab
+Rituximab and Hyaluronidase Human
+Treanda (Bendamustine Hydrochloride)
+Truxima (Rituximab)
+Venclexta (Venetoclax)
+Venetoclax
+Zydelig (Idelalisib)
+Bosulif (Bosutinib)
+Bosutinib
+Busulfan
+Busulfex (Busulfan)
+Cyclophosphamide
+Cytarabine
+Dasatinib
+Dexamethasone
+Gleevec (Imatinib Mesylate)
+Hydrea (Hydroxyurea)
+Hydroxyurea
+Iclusig (Ponatinib Hydrochloride)
+Imatinib Mesylate
+Myleran (Busulfan)
+Nilotinib
+Omacetaxine Mepesuccinate
+Ponatinib Hydrochloride
+Sprycel (Dasatinib)
+Synribo (Omacetaxine Mepesuccinate)
+Tasigna (Nilotinib)
+Cladribine
+Intron A (Recombinant Interferon Alfa-2b)
+Lumoxiti (Moxetumomab Pasudotox-tdfk)
+Moxetumomab Pasudotox-tdfk
+Recombinant Interferon Alfa-2b
+Midostaurin
+Rydapt (Midostaurin)
+Cytarabine

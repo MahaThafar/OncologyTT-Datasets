@@ -1,0 +1,92 @@
+Abraxane (Paclitaxel Albumin-stabilized Nanoparticle Formulation)
+Afatinib Dimaleate
+Afinitor (Everolimus)
+Afinitor Disperz (Everolimus)
+Alecensa (Alectinib)
+Alectinib
+Alimta (Pemetrexed Disodium)
+Alunbrig (Brigatinib)
+Atezolizumab
+Avastin (Bevacizumab)
+Bevacizumab
+Brigatinib
+Capmatinib Hydrochloride
+Carboplatin
+Cemiplimab-rwlc
+Ceritinib
+Crizotinib
+Cyramza (Ramucirumab)
+Dabrafenib Mesylate
+Dacomitinib
+Docetaxel
+Doxorubicin Hydrochloride
+Durvalumab
+Entrectinib
+Erlotinib Hydrochloride
+Everolimus
+Gavreto (Pralsetinib)
+Gefitinib
+Gilotrif (Afatinib Dimaleate)
+Gemcitabine Hydrochloride
+Gemzar (Gemcitabine Hydrochloride)
+Imfinzi (Durvalumab)
+Infugem (Gemcitabine Hydrochloride)
+Ipilimumab
+Iressa (Gefitinib)
+Keytruda (Pembrolizumab)
+Libtayo (Cemiplimab-rwlc)
+Lorbrena (Lorlatinib)
+Lorlatinib
+Mekinist (Trametinib Dimethyl Sulfoxide)
+Methotrexate Sodium
+Mvasi (Bevacizumab)
+Necitumumab
+Nivolumab
+Opdivo (Nivolumab)
+Osimertinib Mesylate
+Paclitaxel
+Paclitaxel Albumin-stabilized Nanoparticle Formulation
+Paraplat (Carboplatin)
+Paraplatin (Carboplatin)
+Pembrolizumab
+Pemetrexed Disodium
+Portrazza (Necitumumab)
+Pralsetinib
+Ramucirumab
+Retevmo (Selpercatinib)
+Rozlytrek (Entrectinib)
+Selpercatinib
+Tabrecta (Capmatinib Hydrochloride)
+Tafinlar (Dabrafenib Mesylate)
+Tagrisso (Osimertinib Mesylate)
+Tarceva (Erlotinib Hydrochloride)
+Taxotere (Docetaxel)
+Tecentriq (Atezolizumab)
+Tepmetko (Tepotinib Hydrochloride)
+Tepotinib Hydrochloride
+Trametinib Dimethyl Sulfoxide
+Trexall (Methotrexate Sodium)
+Vizimpro (Dacomitinib)
+Vinorelbine Tartrate
+Xalkori (Crizotinib)
+Yervoy (Ipilimumab)
+Zirabev (Bevacizumab)
+Zykadia (Ceritinib)
+Afinitor (Everolimus)
+Atezolizumab
+Doxorubicin Hydrochloride
+Durvalumab
+Etopophos (Etoposide Phosphate)
+Etoposide
+Etoposide Phosphate
+Everolimus
+Hycamtin (Topotecan Hydrochloride)
+Imfinzi (Durvalumab)
+Lurbinectedin
+Methotrexate Sodium
+Nivolumab
+Opdivo (Nivolumab)
+Tecentriq (Atezolizumab)
+Topotecan Hydrochloride
+Trexall (Methotrexate Sodium)
+Zepzelca (Lurbinectedin)
