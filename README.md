@@ -3,11 +3,11 @@
 ![alt text](https://github.com/MahaThafar/OncologyTT-Datasets/blob/main/OncologyTT_logo.png)
 ---
 
-## The "OncologyTT" Datasets have been created for research purposes to contribute to Oncology research, more specifically "Identifying novel therapeutic targets to treat cancer".
+> OncologyTT Datasets have been created for research purposes to contribute to Oncology research, more specifically "Identifying novel therapeutic targets to treat cancer".
 
 
 #### This repository includes several datasets related to 13 cancer types.
-### Description of all folders and files as follow:
+#### Description of all folders and files as follow:
 
 > All data are divided into files based on cancer type.
 > Data Curation and preprocessing steps to obtain some data is explained in each folder,
@@ -21,7 +21,8 @@
 
 **Each file has this information:**
 - *[Entry, Gene names, Protein names, Amino-acid sequence, Class Label]*
-		
+
+
 **Each one of the previous files has a corresponding folder:**
 1. Positive targets (Approved target)
 2. Positive genes (Cancer driver genes) 
@@ -29,8 +30,7 @@
 that consist of several files matching the cancer type.
 
 
-
-
+--------------------------------------------------------------------
 For any qutions please contact the first author:
 ---------------------------------------------------------------------
 Maha A. Thafar 
