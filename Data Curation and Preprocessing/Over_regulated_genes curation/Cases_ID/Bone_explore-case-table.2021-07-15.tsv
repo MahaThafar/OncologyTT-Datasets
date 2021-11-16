@@ -1,0 +1,5 @@
+Case ID	Project	Primary Site	Gender	Files	Seq	Exp	SNV	CNV	Meth	Clinical	Bio	# Mutations	# Genes	Slides
+TCGA-CQ-A4CD	TCGA-HNSC	Bones, joints and articular cartilage of other and unspecified sites	Male	58	4	5	16	7	1	9	16	197	189	2
+TCGA-RQ-A6JB	TCGA-DLBC	Bones, joints and articular cartilage of other and unspecified sites	Female	54	4	5	16	7	1	7	14	161	143	2
+TCGA-IF-A4AJ	TCGA-SARC	Bones, joints and articular cartilage of limbs	Male	58	4	5	16	7	2	8	16	88	87	4
+TCGA-DX-A3UA	TCGA-SARC	Bones, joints and articular cartilage of limbs	Female	55	4	5	16	7	1	8	14	59	51	2

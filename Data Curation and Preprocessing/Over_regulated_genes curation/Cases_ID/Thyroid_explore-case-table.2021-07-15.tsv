@@ -1,0 +1,21 @@
+Case ID	Project	Primary Site	Gender	Files	Seq	Exp	SNV	CNV	Meth	Clinical	Bio	# Mutations	# Genes	Slides
+TCGA-EL-A3ZG	TCGA-THCA	Thyroid gland	Male	66	6	10	16	7	2	10	15	740	575	3
+TCGA-DJ-A3VL	TCGA-THCA	Thyroid gland	Male	57	4	5	16	7	1	10	14	517	420	2
+TCGA-ET-A40S	TCGA-THCA	Thyroid gland	Male	57	4	5	16	7	1	10	14	407	323	2
+TCGA-EL-A3ZN	TCGA-THCA	Thyroid gland	Female	58	4	5	16	7	1	10	15	365	287	3
+TCGA-E8-A436	TCGA-THCA	Thyroid gland	Female	55	4	5	16	5	1	10	14	344	273	2
+TCGA-FY-A40L	TCGA-THCA	Thyroid gland	Female	57	4	5	16	7	1	10	14	222	179	2
+TCGA-EL-A3ZR	TCGA-THCA	Thyroid gland	Female	65	6	10	16	7	1	10	15	199	163	3
+TCGA-EL-A3ZP	TCGA-THCA	Thyroid gland	Male	66	6	10	16	7	2	10	15	183	139	3
+TCGA-EL-A3ZQ	TCGA-THCA	Thyroid gland	Female	65	6	10	16	7	1	10	15	156	130	3
+TCGA-EL-A3ZO	TCGA-THCA	Thyroid gland	Female	66	6	10	16	7	2	10	15	118	114	3
+TCGA-EL-A3CT	TCGA-THCA	Thyroid gland	Female	57	4	5	16	7	1	10	14	99	94	2
+TCGA-E8-A419	TCGA-THCA	Thyroid gland	Female	57	4	5	16	7	1	10	14	112	92	2
+TCGA-DJ-A3VK	TCGA-THCA	Thyroid gland	Male	58	4	5	16	7	1	11	14	99	87	2
+TCGA-E8-A415	TCGA-THCA	Thyroid gland	Female	57	4	5	16	7	1	10	14	92	82	2
+TCGA-DO-A2HM	TCGA-THCA	Thyroid gland	Male	57	4	5	16	7	1	10	14	81	80	2
+TCGA-L6-A4EU	TCGA-THCA	Thyroid gland	Female	57	4	5	16	7	1	10	14	74	72	2
+TCGA-4C-A93U	TCGA-THCA	Thyroid gland	Female	60	5	5	16	7	1	10	16	72	70	4
+TCGA-EM-A3O3	TCGA-THCA	Thyroid gland	Female	57	4	5	16	7	1	10	14	74	67	2
+TCGA-BJ-A45E	TCGA-THCA	Thyroid gland	Female	61	5	5	16	9	1	10	15	76	63	3
+TCGA-EL-A4KG	TCGA-THCA	Thyroid gland	Female	57	4	5	16	7	1	10	14	61	59	2

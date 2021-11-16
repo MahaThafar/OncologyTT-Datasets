@@ -1,0 +1,21 @@
+Case ID	Project	Primary Site	Gender	Files	Seq	Exp	SNV	CNV	Meth	Clinical	Bio	# Mutations	# Genes	Slides
+TCGA-18-3409	TCGA-LUSC	Bronchus and lung	Male	56	3	3	16	7	2	8	17	4,500	3,329	5
+TCGA-90-A4ED	TCGA-LUSC	Bronchus and lung	Male	54	4	5	16	7	1	7	14	2,866	2,293	2
+TCGA-21-1079	TCGA-LUSC	Bronchus and lung	Male	55	4	5	16	7	1	7	15	2,605	2,168	3
+TCGA-55-8506	TCGA-LUAD	Bronchus and lung	Female	61	4	5	16	7	1	7	21	2,339	2,020	3
+TCGA-05-4382	TCGA-LUAD	Bronchus and lung	Male	64	6	5	16	7	1	8	21	2,312	1,905	3
+TCGA-L9-A7SV	TCGA-LUAD	Bronchus and lung	Male	60	4	5	16	7	1	7	20	2,107	1,779	2
+TCGA-MN-A4N4	TCGA-LUAD	Bronchus and lung	Male	61	4	5	16	7	1	7	21	1,969	1,686	3
+TCGA-86-A4JF	TCGA-LUAD	Bronchus and lung	Male	60	4	5	16	7	1	7	20	1,852	1,675	2
+TCGA-55-7994	TCGA-LUAD	Bronchus and lung	Male	64	4	5	16	9	1	7	22	1,990	1,669	4
+TCGA-49-AARE	TCGA-LUAD	Bronchus and lung	Female	61	4	5	16	7	1	7	21	1,937	1,645	3
+TCGA-78-7155	TCGA-LUAD	Bronchus and lung	Male	63	6	5	16	7	1	7	21	1,963	1,627	3
+TCGA-69-7979	TCGA-LUAD	Bronchus and lung	Female	56	4	5	16	3	1	7	20	1,906	1,621	2
+TCGA-86-8073	TCGA-LUAD	Bronchus and lung	Male	61	4	5	16	7	1	7	21	1,913	1,604	3
+TCGA-33-4566	TCGA-LUSC	Bronchus and lung	Male	58	4	5	16	7	2	7	17	1,792	1,522	5
+TCGA-55-A490	TCGA-LUAD	Bronchus and lung	Male	60	4	5	16	7	1	7	20	1,773	1,503	2
+TCGA-63-A5MM	TCGA-LUSC	Bronchus and lung	Female	54	4	5	16	7	1	7	14	1,627	1,487	2
+TCGA-55-8089	TCGA-LUAD	Bronchus and lung	Male	62	4	5	16	9	1	7	20	1,592	1,405	2
+TCGA-95-7039	TCGA-LUAD	Bronchus and lung	Female	63	6	5	16	7	1	7	21	1,632	1,386	3
+TCGA-21-1080	TCGA-LUSC	Bronchus and lung	Male	55	4	5	16	7	1	7	15	1,492	1,359	3
+TCGA-37-4130	TCGA-LUSC	Bronchus and lung	Male	59	4	5	16	11	1	7	15	1,493	1,331	3
