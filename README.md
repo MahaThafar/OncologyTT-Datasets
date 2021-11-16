@@ -6,7 +6,7 @@
 #### This repository includes several datasets related to 13 cancer types.
  the data provided in several folders and each folder has its description.
 
-> All data are divided into files based on cancer type
+> All data are divided into files based on cancer type.
 > Data Curation and preprocessing steps to obtain some data is explained in each folder,
 > and the preprocessing implementations are provided (for some datasets)
 
