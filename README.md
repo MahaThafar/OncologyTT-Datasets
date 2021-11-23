@@ -35,18 +35,17 @@ that consist of several files matching the cancer type.
 5. Approved drugs per cancer: that are collected from National Cancer Institue (NCI).
 
 -----------------------------------------------
-## For Citation:
+### For Citation:
 TBD
-------------------------------------------------
 
 --------------------------------------------------------------------
-For any qutions please contact the first author:
+### For any qutions please contact the first author:
 ---------------------------------------------------------------------
-Maha A. Thafar 
-Ph.D. Candidate | Computer Science
-Computer, Electrical and Mathematical Sciences and Engineering (CEMSE) Division
-Computational Bioscience Research Center (CBRC)
-Faculty of Computers and Information Technology, Taif University (TU)
-Email: maha.thafar@kaust.edu.sa
+Maha A. Thafar \
+Ph.D. Candidate and resercher | Computer Science\
+Computer, Electrical and Mathematical Sciences and Engineering (CEMSE) Division\
+Computational Bioscience Research Center (CBRC), King Abdullah university of science and technology\
+Faculty of Computers and Information Technology, Taif University.\
+Email: maha.thafar@kaust.edu.sa\
 
 ----
