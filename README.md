@@ -28,7 +28,7 @@
 **Each one of the previous files has a corresponding folder:**
 1. Positive targets (Approved target)
 2. Positive genes (Cancer driver genes) 
-3. Negative genes (unlabeled genes thaat have been used as negative samples) 
+3. Negative genes (unlabeled genes thaat have been used as negative samples)\ 
 that consist of several files matching the cancer type.
 
 **Other Data Folders:**
@@ -36,7 +36,7 @@ that consist of several files matching the cancer type.
 5. Approved drugs per cancer: that are collected from National Cancer Institue (NCI).
 
 -----------------------------------------------
-### For Citation:
+#### If you use this dataset, please cite the following:
 TBD
 
 --------------------------------------------------------------------
