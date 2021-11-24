@@ -1,0 +1,18 @@
+,DrugBank ID,NCI Drug Name,DrugBank Drug Name,All Synonyms
+0,DB08875,Cabozantinib-S-Malate,Cabozantinib,Cabozantinib
+1,DB05294,Caprelsa (Vandetanib),Vandetanib,"N-(4-Bromo-2-fluorophenyl)-6-methoxy-7-((1-methyl-4-piperidinyl)methoxy)-4-quinazolinamine,N-(4-Bromo-2-fluorophenyl)-6-methoxy-7-((1-methylpiperidin-4-yl)methoxy)quinazolin-4-amine,Vandetanib"
+2,DB08875,Cometriq (Cabozantinib-S-Malate),Cabozantinib,Cabozantinib
+3,DB08912,Dabrafenib Mesylate,Dabrafenib,Dabrafenib
+4,DB00997,Doxorubicin Hydrochloride,Doxorubicin,"(1S,3S)-3-glycoloyl-3,5,12-trihydroxy-10-methoxy-6,11-dioxo-1,2,3,4,6,11-hexahydrotetracen-1-yl 3-amino-2,3,6-trideoxy-α-L-lyxo-hexopyranoside,(8S-cis)-10-((3-amino-2,3,6-trideoxy-α-L-lyxo-hexopyranosyl)oxy)-7,8,9,10-tetrahydro-6,8,11-trihydroxy-8-(hydroxyacetyl)-1-methoxy-5,12-naphthacenedione,14-hydroxydaunomycin,14-hydroxydaunorubicine,Doxorubicin,Hydroxydaunorubicin"
+5,DB15822,Gavreto (Pralsetinib),Pralsetinib,Pralsetinib
+6,DB09078,Lenvatinib Mesylate,Lenvatinib,"4-{3-chloro-4-[(cyclopropylcarbamoyl)amino]phenoxy}-7-methoxyquinoline-6-carboxamide,Lenvatinib"
+7,DB09078,Lenvima (Lenvatinib Mesylate),Lenvatinib,"4-{3-chloro-4-[(cyclopropylcarbamoyl)amino]phenoxy}-7-methoxyquinoline-6-carboxamide,Lenvatinib"
+8,DB08911,Mekinist (Trametinib Dimethyl Sulfoxide),Trametinib,
+9,DB00398,Nexavar (Sorafenib Tosylate),Sorafenib,"4-(4-((((4-Chloro-3-(trifluoromethyl)phenyl)amino)carbonyl)amino)phenoxy)-N-methyl-2-pyridinecarboxamide,N-(4-Chloro-3-(trifluoromethyl)phenyl)-N'-(4-(2-(N-methylcarbamoyl)-4-pyridyloxy)phenyl)urea"
+10,DB15822,Pralsetinib,Pralsetinib,Pralsetinib
+11,DB15685,Retevmo (Selpercatinib),Selpercatinib,Selpercatinib
+12,DB15685,Selpercatinib,Selpercatinib,Selpercatinib
+13,DB00398,Sorafenib Tosylate,Sorafenib,"4-(4-((((4-Chloro-3-(trifluoromethyl)phenyl)amino)carbonyl)amino)phenoxy)-N-methyl-2-pyridinecarboxamide,N-(4-Chloro-3-(trifluoromethyl)phenyl)-N'-(4-(2-(N-methylcarbamoyl)-4-pyridyloxy)phenyl)urea"
+14,DB08912,Tafinlar (Dabrafenib Mesylate),Dabrafenib,Dabrafenib
+15,DB01093,Trametinib Dimethyl Sulfoxide,Dimethyl sulfoxide,"Dimethyl sulfoxide,Dimethyl sulfur oxide,Dimethyl sulphoxide,DMSO,Methylsulfinylmethane,S(O)Me2,Sulfinylbis(methane)"
+16,DB05294,Vandetanib,Vandetanib,"N-(4-Bromo-2-fluorophenyl)-6-methoxy-7-((1-methyl-4-piperidinyl)methoxy)-4-quinazolinamine,N-(4-Bromo-2-fluorophenyl)-6-methoxy-7-((1-methylpiperidin-4-yl)methoxy)quinazolin-4-amine,Vandetanib"

@@ -1,0 +1,23 @@
+,DrugBank ID,NCI Drug Name,DrugBank Drug Name,All Synonyms
+0,DB11595,Atezolizumab,Atezolizumab,Atezolizumab
+1,DB11945,Avelumab,Avelumab,
+2,DB12147,Balversa (Erdafitinib),Erdafitinib,Erdafitinib
+3,DB11945,Bavencio (Avelumab),Avelumab,
+4,DB00515,Cisplatin,Cisplatin,"CDDP,Cis-DDP,cis-diamminedichloroplatinum(II),Cisplatin"
+5,DB00997,Doxorubicin Hydrochloride,Doxorubicin,"(1S,3S)-3-glycoloyl-3,5,12-trihydroxy-10-methoxy-6,11-dioxo-1,2,3,4,6,11-hexahydrotetracen-1-yl 3-amino-2,3,6-trideoxy-α-L-lyxo-hexopyranoside,(8S-cis)-10-((3-amino-2,3,6-trideoxy-α-L-lyxo-hexopyranosyl)oxy)-7,8,9,10-tetrahydro-6,8,11-trihydroxy-8-(hydroxyacetyl)-1-methoxy-5,12-naphthacenedione,14-hydroxydaunomycin,14-hydroxydaunorubicine,Doxorubicin,Hydroxydaunorubicin"
+6,DB13007,Enfortumab Vedotin-ejfv,Enfortumab vedotin,enfortumab vedotin-ejfv
+7,DB12147,Erdafitinib,Erdafitinib,Erdafitinib
+8,DB00305,Jelmyto (Mitomycin),Mitomycin,"7-Amino-9alpha-methoxymitosane,Ametycine,Mitamycin,Mitocin-C,Mitomycin,Mitomycin C,MMC"
+9,DB09037,Keytruda (Pembrolizumab),Pembrolizumab,Lambrolizumab
+10,DB00305,Mitomycin,Mitomycin,"7-Amino-9alpha-methoxymitosane,Ametycine,Mitamycin,Mitocin-C,Mitomycin,Mitomycin C,MMC"
+11,DB09035,Nivolumab,Nivolumab,Nivolumab
+12,DB09035,Opdivo (Nivolumab),Nivolumab,Nivolumab
+13,DB13007,Padcev (Enfortumab Vedotin-ejfv),Enfortumab vedotin,enfortumab vedotin-ejfv
+14,DB09037,Pembrolizumab,Pembrolizumab,Lambrolizumab
+15,DB12893,Sacituzumab Govitecan-hziy,Sacituzumab govitecan,"Sacituzumab govitecan,sacituzumab govitecan-hziy"
+16,DB11595,Tecentriq (Atezolizumab),Atezolizumab,Atezolizumab
+17,DB04572,Tepadina (Thiotepa),Thiotepa,Thiotepa
+18,DB04572,Thiotepa,Thiotepa,Thiotepa
+19,DB12893,Trodelvy (Sacituzumab Govitecan-hziy),Sacituzumab govitecan,"Sacituzumab govitecan,sacituzumab govitecan-hziy"
+20,DB00385,Valrubicin,Valrubicin,"(8S, 10S)-8-glycoloyl-7,8,9,10-tetrahydro-6,8,11-trihydroxy-1-methoxy-10-[[2,3,6-trideoxy-3-(2,2,2-trifluoroacetamido)-α-L-lyxo-hexopyranosyl]oxy]-5,12-naphthacenedione 8²-valerate,2-oxo-2-[(2S,4S)-2,5,12-trihydroxy-7-methoxy-6,11-dioxo-4-({2,3,6-trideoxy-3-[(trifluoroacetyl)amino]hexopyranosyl}oxy)-1,2,3,4,6,11-hexahydrotetracen-2-yl]ethyl pentanoate,Valrubicin"
+21,DB00385,Valstar (Valrubicin),Valrubicin,"(8S, 10S)-8-glycoloyl-7,8,9,10-tetrahydro-6,8,11-trihydroxy-1-methoxy-10-[[2,3,6-trideoxy-3-(2,2,2-trifluoroacetamido)-α-L-lyxo-hexopyranosyl]oxy]-5,12-naphthacenedione 8²-valerate,2-oxo-2-[(2S,4S)-2,5,12-trihydroxy-7-methoxy-6,11-dioxo-4-({2,3,6-trideoxy-3-[(trifluoroacetyl)amino]hexopyranosyl}oxy)-1,2,3,4,6,11-hexahydrotetracen-2-yl]ethyl pentanoate,Valrubicin"

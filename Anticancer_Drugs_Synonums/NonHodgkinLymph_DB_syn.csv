@@ -1,0 +1,86 @@
+,DrugBank ID,NCI Drug Name,DrugBank Drug Name,All Synonyms
+0,DB11703,Acalabrutinib,Acalabrutinib,
+1,DB08870,Adcetris (Brentuximab Vedotin),Brentuximab vedotin,"Brentuximab,Brentuximab vedotin,Brentuximab vedotin brentuximab,cAC10-vcMMAE,Moab, chimeric, SGN-30, to CD30 antigen,Monoclonal antibody SGN-30"
+2,DB12483,Aliqopa (Copanlisib Hydrochloride),Copanlisib,Copanlisib
+3,DB01280,Arranon (Nelarabine),Nelarabine,"2-Amino-9-beta-D-arabinofuranosyl-6-methoxy-9H-purine,Nelarabine,Nelzarabine"
+4,DB13915,Axicabtagene Ciloleucel,Axicabtagene ciloleucel,Autologous T cells transduced with retroviral vector encoding an anti-CD-19 CD28/CD3-zeta chimeric antigen receptor
+5,DB05015,Beleodaq (Belinostat),Belinostat,Belinostat
+6,DB05015,Belinostat,Belinostat,Belinostat
+7,DB06769,Bendamustine Hydrochloride,Bendamustine,"Bendamustine,Ribomustine"
+8,DB06769,Bendeka (Bendamustine Hydrochloride) ,Bendamustine,"Bendamustine,Ribomustine"
+9,DB00262,BiCNU (Carmustine),Carmustine,"BCNU,bis-chloroethylnitrosourea,Bischloroethyl nitrosourea,N,N'-Bis(2-chloroethyl)-N-nitrosourea"
+10,DB00290,Bleomycin Sulfate,Bleomycin,"Bleocin,Bleomicin,Bleomycin"
+11,DB00188,Bortezomib,Bortezomib,"[(1R)-3-methyl-1-({(2S)-3-phenyl-2-[(pyrazin-2-ylcarbonyl)amino]propanoyl}amino)butyl]boronic acid,Bortezomib,N-[(1R)-1-(DIHYDROXYBORYL)-3-methylbutyl]-N-(pyrazin-2-ylcarbonyl)-L-phenylalaninamide"
+12,DB08870,Brentuximab Vedotin,Brentuximab vedotin,"Brentuximab,Brentuximab vedotin,Brentuximab vedotin brentuximab,cAC10-vcMMAE,Moab, chimeric, SGN-30, to CD30 antigen,Monoclonal antibody SGN-30"
+13,DB15699,Brexucabtagene Autoleucel,Brexucabtagene autoleucel,Brexucabtagene autoleucel
+14,DB15035,Brukinsa (Zanubrutinib),Zanubrutinib,Zanubrutinib
+15,DB11703,Calquence (Acalabrutinib),Acalabrutinib,
+16,DB00262,Carmustine,Carmustine,"BCNU,bis-chloroethylnitrosourea,Bischloroethyl nitrosourea,N,N'-Bis(2-chloroethyl)-N-nitrosourea"
+17,DB00291,Chlorambucil,Chlorambucil,"4-(p-bis(beta-chloroethyl)aminophenyl)butyric acid,4-(p-bis(β-chloroethyl)aminophenyl)butyric acid,4-[p-[bis(2-chloroethyl)amino]phenyl]butyric acid,Ambochlorin,Chlorambucil,Chloraminophen,gamma-[p-di(2-chloroethyl)aminophenyl]butyric acid,N,N-di-2-chloroethyl-gamma-p-aminophenylbutyric acid,N,N-di-2-chloroethyl-γ-p-aminophenylbutyric acid,Phenylbutyric acid nitrogen mustard,γ-[p-di(2-chloroethyl)aminophenyl]butyric acid"
+18,DB12483,Copanlisib Hydrochloride,Copanlisib,Copanlisib
+19,DB11952,Copiktra (Duvelisib),Duvelisib,Duvelisib
+20,DB08865,Crizotinib,Crizotinib,(R)-crizotinib
+21,DB00531,Cyclophosphamide,Cyclophosphamide,"(+-)-Cyclophosphamide,(RS)-Cyclophosphamide,2-[Bis(2-chloroethylamino)]-tetrahydro-2H-1,3,2-oxazaphosphorine-2-oxide,Anhydrous cyclophosphamide,Bis(2-chloroethyl)phosphoramide cyclic propanolamide ester,Ciclofosfamide,Cyclophosphamide anhydrous,Cytophosphane,N,N-Bis(2-chloroethyl)tetrahydro-2H-1,3,2-oxazaphosphorin-2-amine 2-oxide"
+22,DB00004,Denileukin Diftitox,Denileukin diftitox,"Denileukin,Interleukin-2/diptheria toxin fusion protein"
+23,DB01234,Dexamethasone,Dexamethasone,"1-Dehydro-16alpha-methyl-9alpha-fluorohydrocortisone,1-Dehydro-16α-methyl-9α-fluorohydrocortisone,16alpha-Methyl-9alpha-fluoro-1-dehydrocortisol,16α-Methyl-9α-fluoro-1-dehydrocortisol,9alpha-Fluoro-16alpha-methylprednisolone,9α-Fluoro-16α-methylprednisolone,Dexamethasone"
+24,DB00997,Doxorubicin Hydrochloride,Doxorubicin,"(1S,3S)-3-glycoloyl-3,5,12-trihydroxy-10-methoxy-6,11-dioxo-1,2,3,4,6,11-hexahydrotetracen-1-yl 3-amino-2,3,6-trideoxy-α-L-lyxo-hexopyranoside,(8S-cis)-10-((3-amino-2,3,6-trideoxy-α-L-lyxo-hexopyranosyl)oxy)-7,8,9,10-tetrahydro-6,8,11-trihydroxy-8-(hydroxyacetyl)-1-methoxy-5,12-naphthacenedione,14-hydroxydaunomycin,14-hydroxydaunorubicine,Doxorubicin,Hydroxydaunorubicin"
+25,DB11952,Duvelisib,Duvelisib,Duvelisib
+26,DB06813,Folotyn (Pralatrexate),Pralatrexate,"(2S)-2-((4-((1RS)-1-((2,4-Diaminopteridin-6-yl)methyl)but-3-ynyl)benzoyl)amino)pentanedioic acid,(2S)-2-({4-[1-(2,4-diaminopteridin-6-yl)pent-4-yn-2-yl]benzoyl}amino)pentanedioic acid,10-Propargyl-10-deazaaminopterin,N-(4-(1-((2,4-Diamino-6-pteridinyl)methyl)-3-butynyl)benzoyl)-L-glutamic acid,PDX"
+27,DB08935,Gazyva (Obinutuzumab),Obinutuzumab,Afutuzumab
+28,DB00078,Ibritumomab Tiuxetan,Ibritumomab tiuxetan,"Ibritumomab,mAb Murine (IGG1) Anti P19437 (CD20_MOUSE)"
+29,DB09053,Ibrutinib,Ibrutinib,"1-[(3R)-3-[4-Amino-3-(4-phenoxyphenyl)-1H-pyrazolo[3,4-d]pyrimidin-1-yl]piperidin-1-yl]prop-2-en-1-one"
+30,DB09054,Idelalisib,Idelalisib,"5-Fluoro-3-phenyl-2-((S)-1-(9H-purin-6-ylamino)-propyl)-3H-quinazolin-4-one,5-fluoro-3-phenyl-2-[(1S)-1-(3H-purin-6-ylamino)propyl]quinazolin-4(3H)-one,Idelalisib"
+31,DB09053,Imbruvica (Ibrutinib),Ibrutinib,"1-[(3R)-3-[4-Amino-3-(4-phenoxyphenyl)-1H-pyrazolo[3,4-d]pyrimidin-1-yl]piperidin-1-yl]prop-2-en-1-one"
+32,DB00105,Intron A (Recombinant Interferon Alfa-2b),Interferon alfa-2b,"Interferon alfa-2b,Interferon alfa-2b, recombinant,Interferon alpha-2B,Interferon α-2b,Intron (Interferon α2b),Intron A,Intron A (Interferon α2b),r-INF-alpha,rIFN-alpha-2b"
+33,DB06176,Istodax (Romidepsin),Romidepsin,Romidepsin
+34,DB09037,Keytruda (Pembrolizumab),Pembrolizumab,Lambrolizumab
+35,DB13881,Kymriah (Tisagenlecleucel),Tisagenlecleucel,"Adoptive immunotherapy agent CTL019,CAR.CD19-Redirected T cells,Tisagenlecleucel-T"
+36,DB00480,Lenalidomide,Lenalidomide,"1-oxo-2-(2,6-dioxopiperidin-3-yl)-4-aminoisoindoline,3-(4-Amino-1-oxoisoindolin-2-yl)piperidine-2,6-dione,Lenalidomide"
+37,DB00291,Leukeran (Chlorambucil),Chlorambucil,"4-(p-bis(beta-chloroethyl)aminophenyl)butyric acid,4-(p-bis(β-chloroethyl)aminophenyl)butyric acid,4-[p-[bis(2-chloroethyl)amino]phenyl]butyric acid,Ambochlorin,Chlorambucil,Chloraminophen,gamma-[p-di(2-chloroethyl)aminophenyl]butyric acid,N,N-di-2-chloroethyl-gamma-p-aminophenylbutyric acid,N,N-di-2-chloroethyl-γ-p-aminophenylbutyric acid,Phenylbutyric acid nitrogen mustard,γ-[p-di(2-chloroethyl)aminophenyl]butyric acid"
+38,DB16222,Loncastuximab Tesirine-lpyl,Loncastuximab tesirine,"Immunoglobulin g1-kappa, anti-(homo sapiens b-lymphocyte antigen cd-19)chimeric monoclonal antibody conjugated to an average of two molecules of tesirine.gamma.1 heavy chain (1-449) (mus musculus vh (ighv1-69*02 (86%) (ighd)-ighj4*01)) (8.8.13) (1-120) -,Loncastuximab Tesirine"
+39,DB00563,Methotrexate Sodium,Methotrexate,"4-amino-10-methylfolic acid,4-amino-N(10)-methylpteroylglutamic acid,Amethopterin,Methotrexate,MTX,N-[4-[[(2,4-diamino-6-pteridinyl)methyl]methylamino]benzoyl]-L-glutamic acid"
+40,DB12498,Mogamulizumab-kpkc,Mogamulizumab,mogamulizumab-kpkc
+41,DB15044,Monjuvi (Tafasitamab-cxix),Tafasitamab,"Tafasitamab,tafasitamab-cxix"
+42,DB06809,Mozobil (Plerixafor),Plerixafor,Plerixafor
+43,DB01280,Nelarabine,Nelarabine,"2-Amino-9-beta-D-arabinofuranosyl-6-methoxy-9H-purine,Nelarabine,Nelzarabine"
+44,DB08935,Obinutuzumab,Obinutuzumab,Afutuzumab
+45,DB00004,Ontak (Denileukin Diftitox),Denileukin diftitox,"Denileukin,Interleukin-2/diptheria toxin fusion protein"
+46,DB09037,Pembrolizumab,Pembrolizumab,Lambrolizumab
+47,DB06809,Plerixafor,Plerixafor,Plerixafor
+48,DB12240,Polatuzumab Vedotin-piiq,Polatuzumab vedotin,polatuzumab vedotin-piiq
+49,DB12240,Polivy (Polatuzumab Vedotin-piiq),Polatuzumab vedotin,polatuzumab vedotin-piiq
+50,DB12498,Poteligeo (Mogamulizumab-kpkc),Mogamulizumab,mogamulizumab-kpkc
+51,DB06813,Pralatrexate,Pralatrexate,"(2S)-2-((4-((1RS)-1-((2,4-Diaminopteridin-6-yl)methyl)but-3-ynyl)benzoyl)amino)pentanedioic acid,(2S)-2-({4-[1-(2,4-diaminopteridin-6-yl)pent-4-yn-2-yl]benzoyl}amino)pentanedioic acid,10-Propargyl-10-deazaaminopterin,N-(4-(1-((2,4-Diamino-6-pteridinyl)methyl)-3-butynyl)benzoyl)-L-glutamic acid,PDX"
+52,DB00635,Prednisone,Prednisone,"1,2-Dehydrocortisone,1,4-Pregnadiene-17α,21-diol-3,11,20-trione,17,21-Dihydroxypregna-1,4-diene-3,11,20-trione,Dehydrocortisone,Prednisone"
+53,DB00105,Recombinant Interferon Alfa-2b,Interferon alfa-2b,"Interferon alfa-2b,Interferon alfa-2b, recombinant,Interferon alpha-2B,Interferon α-2b,Intron (Interferon α2b),Intron A,Intron A (Interferon α2b),r-INF-alpha,rIFN-alpha-2b"
+54,DB00480,Revlimid (Lenalidomide),Lenalidomide,"1-oxo-2-(2,6-dioxopiperidin-3-yl)-4-aminoisoindoline,3-(4-Amino-1-oxoisoindolin-2-yl)piperidine-2,6-dione,Lenalidomide"
+55,DB00073,Rituxan (Rituximab),Rituximab,"rituximab-abbs,rituximab-arrx,rituximab-pvvr"
+56,DB06205,Rituxan Hycela (Rituximab and Hyaluronidase Human),Hyaluronidase (human recombinant),"Hyaluronidase (human recombinant),Hyaluronidase human recombinant,Hyaluronidase recombinant human,Hyaluronidase, human,Recombinant human hyaluronidase,Vorhyaluronidase alfa"
+57,DB00073,Rituximab,Rituximab,"rituximab-abbs,rituximab-arrx,rituximab-pvvr"
+58,DB06205,Rituximab and Hyaluronidase Human,Hyaluronidase (human recombinant),"Hyaluronidase (human recombinant),Hyaluronidase human recombinant,Hyaluronidase recombinant human,Hyaluronidase, human,Recombinant human hyaluronidase,Vorhyaluronidase alfa"
+59,DB06176,Romidepsin,Romidepsin,Romidepsin
+60,DB11942,Selinexor,Selinexor,Selinexor
+61,DB15044,Tafasitamab-cxix,Tafasitamab,"Tafasitamab,tafasitamab-cxix"
+62,DB00674,Tazemetostat Hydrobromide,Galantamine,"(-)-Galanthamine,Galantamine,Galanthamine"
+63,DB12887,Tazverik (Tazemetostat Hydrobromide),Tazemetostat,
+64,DB15699,Tecartus (Brexucabtagene Autoleucel),Brexucabtagene autoleucel,Brexucabtagene autoleucel
+65,DB13881,Tisagenlecleucel,Tisagenlecleucel,"Adoptive immunotherapy agent CTL019,CAR.CD19-Redirected T cells,Tisagenlecleucel-T"
+66,DB06769,Treanda (Bendamustine Hydrochloride),Bendamustine,"Bendamustine,Ribomustine"
+67,DB00563,Trexall (Methotrexate Sodium),Methotrexate,"4-amino-10-methylfolic acid,4-amino-N(10)-methylpteroylglutamic acid,Amethopterin,Methotrexate,MTX,N-[4-[[(2,4-diamino-6-pteridinyl)methyl]methylamino]benzoyl]-L-glutamic acid"
+68,DB00073,Truxima (Rituximab),Rituximab,"rituximab-abbs,rituximab-arrx,rituximab-pvvr"
+69,DB01158,Ukoniq (Umbralisib Tosylate),Bretylium,"(2-bromobenzyl)ethyldimethylaminium,2-bromo-N-ethyl-N,N-dimethylbenzenemethanaminium,Bretylium,N-ethyl-N,N-dimethyl-2-bromobenzenemethanaminium"
+70,DB01158,Umbralisib Tosylate,Bretylium,"(2-bromobenzyl)ethyldimethylaminium,2-bromo-N-ethyl-N,N-dimethylbenzenemethanaminium,Bretylium,N-ethyl-N,N-dimethyl-2-bromobenzenemethanaminium"
+71,DB00188,Velcade (Bortezomib),Bortezomib,"[(1R)-3-methyl-1-({(2S)-3-phenyl-2-[(pyrazin-2-ylcarbonyl)amino]propanoyl}amino)butyl]boronic acid,Bortezomib,N-[(1R)-1-(DIHYDROXYBORYL)-3-methylbutyl]-N-(pyrazin-2-ylcarbonyl)-L-phenylalaninamide"
+72,DB11581,Venclexta (Venetoclax),Venetoclax,"4-{4-[(4'-chloro-5,5-dimethyl[3,4,5,6-tetrahydro[1,1'-biphenyl]]-2-yl)methyl]piperazin-1-yl}-N-(3-nitro-4-{[(oxan-4-yl)methyl]amino}benzene-1-sulfonyl)-2-[(1H-pyrrolo[2,3-b]pyridin-5-yl)oxy]benzamide,Venetoclax"
+73,DB11581,Venetoclax,Venetoclax,"4-{4-[(4'-chloro-5,5-dimethyl[3,4,5,6-tetrahydro[1,1'-biphenyl]]-2-yl)methyl]piperazin-1-yl}-N-(3-nitro-4-{[(oxan-4-yl)methyl]amino}benzene-1-sulfonyl)-2-[(1H-pyrrolo[2,3-b]pyridin-5-yl)oxy]benzamide,Venetoclax"
+74,DB00570,Vinblastine Sulfate,Vinblastine,Vincaleukoblastine
+75,DB00541,Vincristine Sulfate,Vincristine,"22-Oxovincaleukoblastin,22-Oxovincaleukoblastine,Leurocristine,Vincristine"
+76,DB02546,Vorinostat,Vorinostat,"Octanedioic acid hydroxyamide phenylamide,SAHA,SHH,Suberanilohydroxamic acid,Suberoylanilide hydroxamic acid"
+77,DB08865,Xalkori (Crizotinib),Crizotinib,(R)-crizotinib
+78,DB11942,Xpovio (Selinexor),Selinexor,Selinexor
+79,DB13915,Yescarta (Axicabtagene Ciloleucel),Axicabtagene ciloleucel,Autologous T cells transduced with retroviral vector encoding an anti-CD-19 CD28/CD3-zeta chimeric antigen receptor
+80,DB15035,Zanubrutinib,Zanubrutinib,Zanubrutinib
+81,DB00078,Zevalin (Ibritumomab Tiuxetan),Ibritumomab tiuxetan,"Ibritumomab,mAb Murine (IGG1) Anti P19437 (CD20_MOUSE)"
+82,DB02546,Zolinza (Vorinostat),Vorinostat,"Octanedioic acid hydroxyamide phenylamide,SAHA,SHH,Suberanilohydroxamic acid,Suberoylanilide hydroxamic acid"
+83,DB09054,Zydelig (Idelalisib),Idelalisib,"5-Fluoro-3-phenyl-2-((S)-1-(9H-purin-6-ylamino)-propyl)-3H-quinazolin-4-one,5-fluoro-3-phenyl-2-[(1S)-1-(3H-purin-6-ylamino)propyl]quinazolin-4(3H)-one,Idelalisib"
+84,DB16222,Zynlonta (Loncastuximab Tesirine-lpyl),Loncastuximab tesirine,"Immunoglobulin g1-kappa, anti-(homo sapiens b-lymphocyte antigen cd-19)chimeric monoclonal antibody conjugated to an average of two molecules of tesirine.gamma.1 heavy chain (1-449) (mus musculus vh (ighv1-69*02 (86%) (ighd)-ighj4*01)) (8.8.13) (1-120) -,Loncastuximab Tesirine"
