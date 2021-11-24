@@ -36,7 +36,7 @@ that consist of several files matching the cancer type.
 5. Approved drugs per cancer: that are collected from National Cancer Institue (NCI).
 
 -----------------------------------------------
-#### If you use this dataset, please cite the following:
+#### If you use any data of OncologyTT datasets, please cite the following:
 TBD
 
 --------------------------------------------------------------------
