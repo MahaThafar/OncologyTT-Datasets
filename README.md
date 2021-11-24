@@ -26,8 +26,8 @@
 
 
 **Each one of the previous files has a corresponding folder:**
-1. Positive targets (Approved target)\
-2. Positive genes (Cancer driver genes)\
+1. Positive targets (Approved target)
+2. Positive genes (Cancer driver genes)
 3. Negative genes (unlabeled genes thaat have been used as negative samples)\ 
 that consist of several files matching the cancer type.
 
