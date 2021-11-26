@@ -8,11 +8,10 @@ a collection of drugs and target genes associated with 13 cancer types.
 </p>
 
 ---
-### This work has been submitted, but we will keep updating this repository to enrich the datasets by adding more cancer types, more target-genes, and more features. If you have any suggestions, feel free to open an issue.
+#### This repository includes several datasets related to 13 cancer types.
+### The work has been submitted, but we will keep updating this repository to enrich the datasets by adding more cancer types, more target-genes, and more features. If you have any suggestions, feel free to open an issue.
 > OncologyTT Datasets have been created for research purposes to contribute to Oncology research, more specifically "Identifying novel therapeutic targets to treat cancer".
 
-
-#### This repository includes several datasets related to 13 cancer types.
 #### Description of all folders and files as follow:
 
 > All data are divided into files based on cancer type.
