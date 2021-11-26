@@ -1,10 +1,9 @@
 # 
 <p align="center">
-<img src="https://github.com/MahaThafar/OncologyTT-Datasets/blob/main/OncologyTT_logo.png" width="600" alt="cover image" title='Oncology Therapeutic Targets (OncologyTT) datasets'/>
+<img src="https://github.com/MahaThafar/OncologyTT-Datasets/blob/main/OncologyTT_logo.png"  title='Oncology Therapeutic Targets (OncologyTT) datasets'/>
 </p>
 <p align="center">
-# Oncology Therapeutic Targets (OncologyTT) datasets
-### a collection of drugs and target genes associated with 13 cancer types.
+a collection of drugs and target genes associated with 13 cancer types.
 </p>
 
 ---
