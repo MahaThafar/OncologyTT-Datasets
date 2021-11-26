@@ -3,11 +3,10 @@
 <img src="https://github.com/MahaThafar/OncologyTT-Datasets/blob/main/OncologyTT_logo.png" width="600" alt="cover image" title='Oncology Therapeutic Targets (OncologyTT) datasets'/>
 </p>
 <p align="center">
+# Oncology Therapeutic Targets (OncologyTT) datasets
 ### a collection of drugs and target genes associated with 13 cancer types.
 </p>
 
-
-![alt text](https://github.com/MahaThafar/OncologyTT-Datasets/blob/main/OncologyTT_logo.png)
 ---
 ### This work has been submitted, but we will keep updating this repository to enrich the datasets by adding more cancer types, more target-genes, and more features. If you have any suggestions, feel free to open an issue.
 > OncologyTT Datasets have been created for research purposes to contribute to Oncology research, more specifically "Identifying novel therapeutic targets to treat cancer".
