@@ -6,7 +6,7 @@
 <p align="center">
 a collection of drugs and target genes associated with 13 cancer types.
 </p>
-https://www.frontiersin.org/articles/10.3389/fgene.2023.1139626/full
+
 ---
 ### This repository includes several datasets related to 13 cancer types.
 #### The work has been submitted, but we will keep updating this repository to enrich the datasets by adding more cancer types, more target-genes, and more features. If you have any suggestions, feel free to open an issue.
@@ -48,6 +48,12 @@ using BERT embeddings and
 omics features.
 Front. Genet. 14:1139626.
 doi: 10.3389/fgene.2023.1139626
+
+--------------------------------------------------------------------
+### To access the full published paper:
+---------------------------------------------------------------------
+
+https://www.frontiersin.org/articles/10.3389/fgene.2023.1139626/full
 
 --------------------------------------------------------------------
 ### For any qutions please contact the first author:
