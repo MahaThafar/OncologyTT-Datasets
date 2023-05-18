@@ -6,7 +6,7 @@
 <p align="center">
 a collection of drugs and target genes associated with 13 cancer types.
 </p>
-
+https://www.frontiersin.org/articles/10.3389/fgene.2023.1139626/full
 ---
 ### This repository includes several datasets related to 13 cancer types.
 #### The work has been submitted, but we will keep updating this repository to enrich the datasets by adding more cancer types, more target-genes, and more features. If you have any suggestions, feel free to open an issue.
@@ -40,7 +40,14 @@ that consist of several files matching the cancer type.
 
 -----------------------------------------------
 #### If you use any data of OncologyTT datasets, please cite the following:
-TBD
+Thafar MA, Albaradei S, Uludag M,
+Alshahrani M, Gojobori T, Essack M and
+Gao X (2023), OncoRTT: Predicting novel
+oncology-related therapeutic targets
+using BERT embeddings and
+omics features.
+Front. Genet. 14:1139626.
+doi: 10.3389/fgene.2023.1139626
 
 --------------------------------------------------------------------
 ### For any qutions please contact the first author:
